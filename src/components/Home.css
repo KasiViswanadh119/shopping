@@ -1,0 +1,84 @@
+
+*{
+    margin: 0;
+    padding: 0;
+   }
+
+.Home{
+    width: auto;
+    height: 4420px;
+    top: -2726px;
+    left: 951px;
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+}
+
+.Intro{
+    background-color: aquamarine;
+    height: 765px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.NavBar{
+    background-color:black;
+    width: 100%;
+    height: 105px;
+    padding: 30px, 128px, 25px, 128px;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.IntroSearch{
+    background-color: bisque;
+    height: 765px;
+
+}
+
+.Slides {
+    background-color: white;
+    width: 100%;
+    height: 400px;
+    /* Remove top: 765px */
+}
+
+.products {
+    width: 100%;
+    height: 1539px;
+    /* Remove top: 1165px */
+    background-color: blue;
+}
+.values{
+    background-color:white;
+    width: 100%;
+    height: 400px;
+    top: 765px;
+
+}
+.benefits{
+    background-color:blueviolet;
+    width: 100%;
+    height: 516px;
+    top:3264px
+
+
+}
+.partners{
+    background-color:black;
+    width: 100%;
+    height: 400px;
+
+
+}
+.footer{
+    background-color:blue;
+    width: 100%;
+    height: 400px;
+    top: 4140px;
+
+
+}
